@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+
+# Ignore video file
+*.avi
+*.wmv
